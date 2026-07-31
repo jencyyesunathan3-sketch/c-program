@@ -46,7 +46,7 @@ int main()
         printf("Circumference of Circle:%2f",area);
         break;
 
-        default:
+    default:
         printf("Invalid choice");
     }
 
