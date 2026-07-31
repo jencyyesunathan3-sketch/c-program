@@ -14,6 +14,9 @@ int main()
     case 1:
         printf("Odd");
         break;
+
+    default:   
+        printf("Invalid");
     }
     return 0;
 }
