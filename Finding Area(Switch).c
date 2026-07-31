@@ -45,6 +45,9 @@ int main()
         area = 2*3.14*radius;
         printf("Circumference of Circle:%2f",area);
         break;
+
+        default:
+        printf("Invalid choice");
     }
 
     return 0;
