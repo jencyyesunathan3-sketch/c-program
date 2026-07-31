@@ -26,6 +26,9 @@ int main()
     case 4:
         printf("Div:%d",a/b);
         break;
+
+        default:
+        printf("Invalid Choice");
     }
     return 0;
 }
