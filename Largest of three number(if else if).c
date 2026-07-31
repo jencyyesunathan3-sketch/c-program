@@ -9,7 +9,7 @@ int main()
     {
         printf("a is a greatest number");
     }
-    if(b>a && b>c)
+    else if(b>a && b>c)
     {
         printf("b is a greatest number");
     }
