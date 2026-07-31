@@ -9,7 +9,7 @@ int main()
     {
         printf("It is an Alphabet");
     }
-    if(ch>='0'&&ch<='9')
+    else if(ch>='0'&&ch<='9')
     {
         printf("It is a Digit");
     }
